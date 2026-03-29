@@ -1,8 +1,0 @@
-{
-  "name": "ViralScript AI",
-  "description": "Instagram trendlarini tahlil qilib, mahsulotingiz uchun viral ssenariylar yaratuvchi intellektual yordamchi.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
